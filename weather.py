@@ -1,4 +1,8 @@
 
+__Autho3__ ="Soumil Nitn Shah"
+__Version__ = "0.0.1"
+
+
 import requests
 from bs4 import BeautifulSoup
 import random
@@ -92,10 +96,3 @@ def main():
 
 if __name__ == "__main__":
     print(main())
-
-
-
-
-
-
-
